@@ -2,6 +2,8 @@
 Moya Network layer building using Combine iOS Swift
 An example of how to build a network layer using Combine, with a structure similar to Moya.
 
+## NOTE: A complete example is available. Please download and run the app.
+
 ### Usage
 
 To use the generic API client, you’ll need to define an implementation of the APIEndpoint protocol that represents the endpoint you want to use
@@ -63,15 +65,16 @@ enum UserEndpoint: APIEndpoint {
 
 How to use in your view model or at your desired place
 ```
-let apiClient = URLSessionAPIClient<UserEndpoint>()
-apiClient.request(UserEndpoint.getUsers)
+let apiClient = URLSessionAPIClient<PostEndPoint>()
+apiClient.request(PostEndPoint.getAllPost)
     .sink(
         receiveCompletion: { completion in
-            // Handle completion
+            // Handle errors in failure block
         },
         receiveValue: { users in
-            // Handle users
+            // Handle posts
         }
     )
     .store(in: &cancellables)
 ```
+## NOTE: A complete example is available. Please download and run the app.
