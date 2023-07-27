@@ -2,7 +2,7 @@
 Moya Network layer building using Combine iOS Swift
 An example of how to build a network layer using Combine, with a structure similar to Moya.
 
-## NOTE: A complete example is available. Please download and run the app.
+## NOTE: A complete example is available. Please download and run the sample app.
 
 ### Usage
 
