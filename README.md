@@ -9,7 +9,7 @@ An example of how to build a network layer using Combine, with a structure simil
 To use the generic API client, you’ll need to define an implementation of the APIEndpoint protocol that represents the endpoint you want to use
 
 ```
-enum UserEndpoint: APIEndpoint {
+enum  PostEndpoint: APIEndpoint {
     case getAllPost
     case getPost(id: Int)
     case anotherCase1
