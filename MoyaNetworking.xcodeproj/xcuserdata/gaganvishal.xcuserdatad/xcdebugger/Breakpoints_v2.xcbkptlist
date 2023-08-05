@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D84E095C-F180-45AF-94C8-95644630471A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7132E17E-1629-4E31-9770-539EBA479516"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/View/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAllPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3874A5CD-45A7-45B7-A0FB-508741E5F1E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/View/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "createPost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B16FF9A8-7631-4361-845E-406871648C78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/View/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "createPost()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B16FF9A8-7631-4361-845E-406871648C78 - a03b99ad9b9db98a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MoyaNetworking.Post) -&gt; () in MoyaNetworking.ViewModel.createPost() -&gt; ()"
+                  moduleName = "MoyaNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaganvishal/Documents/MoyaNetworking/MoyaNetworking/View/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "B16FF9A8-7631-4361-845E-406871648C78 - a03b99ad9b9db98a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MoyaNetworking.Post) -&gt; () in MoyaNetworking.ViewModel.createPost() -&gt; ()"
+                  moduleName = "MoyaNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaganvishal/Documents/MoyaNetworking/MoyaNetworking/View/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7036CEAE-205A-4B26-94AD-77DA1DA074FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/View/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getPostForID()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7036CEAE-205A-4B26-94AD-77DA1DA074FB - 6fc90ecdc0dec92c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MoyaNetworking.Post) -&gt; () in MoyaNetworking.ViewModel.getPostForID() -&gt; ()"
+                  moduleName = "MoyaNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaganvishal/Documents/MoyaNetworking/MoyaNetworking/View/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "7036CEAE-205A-4B26-94AD-77DA1DA074FB - 6fc90ecdc0dec92c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MoyaNetworking.Post) -&gt; () in MoyaNetworking.ViewModel.getPostForID() -&gt; ()"
+                  moduleName = "MoyaNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaganvishal/Documents/MoyaNetworking/MoyaNetworking/View/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6C43399-1206-4768-A78B-CAAF9CEE5930"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/View/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getPostForID()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3899542B-A057-4F64-817D-6A9B7ECD1206"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/Networking/URLSessionAPIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "request(_:type:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3899542B-A057-4F64-817D-6A9B7ECD1206 - 7a63fa39cb67a23a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MoyaNetworking.URLSessionAPIClient.request&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(_: &#x3c4;_0_0, type: &#x3c4;_1_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, Swift.Error&gt;"
+                  moduleName = "MoyaNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaganvishal/Documents/MoyaNetworking/MoyaNetworking/Networking/URLSessionAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "3899542B-A057-4F64-817D-6A9B7ECD1206 - 7a63fa39cb67a23a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MoyaNetworking.URLSessionAPIClient.request&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(_: &#x3c4;_0_0, type: &#x3c4;_1_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, Swift.Error&gt;"
+                  moduleName = "MoyaNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaganvishal/Documents/MoyaNetworking/MoyaNetworking/Networking/URLSessionAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3B77213-64ED-431A-9874-0F734EBBB27C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaNetworking/View/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "createPost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
